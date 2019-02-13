@@ -30,7 +30,7 @@ public class ForStatementChallenge {
 
         // symbol break between for statements
         System.out.println("********************************");
-
+        // Challenge Part 2
         for(int i = 8; i > 1; i--){
             System.out.println("$10,000 at " + i + "% interest = $" +
                     String.format("%.2f",calculateInterest(10000,i)));
