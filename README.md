@@ -21,3 +21,4 @@ App 12 Days of the Week <br>
 App 13 Number in Word <br>
 App 14 Number of Days in Month <br>
 App 15 Calculate Interest (added 2/13/2019) <br>
+App 16 Is Prime Number (added 2/13/2019) <br>
